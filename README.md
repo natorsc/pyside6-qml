@@ -80,7 +80,7 @@ Obrigado por sua doação é através dela que consigo manter este conteúdo �
 
 Para facilitar a localização e organização dos conteúdos, a documentação deste projeto está disponível em:
 
-- [https://pyside6.justcode.com.br/](https://pyside6.justcode.com.br/).
+- [https://qml.justcode.com.br/](https://qml.justcode.com.br/).
 
 ---
 

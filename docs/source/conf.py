@@ -2,7 +2,7 @@ project = 'Python e QML'
 copyright = '2023-2024, Renato Cruz (natorsc)'
 author = 'Renato Cruz (natorsc)'
 
-ogp_site_url = 'https://qml.juscode.com.br'
+ogp_site_url = 'https://qml.juscode.com.br/'
 ogp_image = 'https://qml.justcode.com.br/_images/pyside6-qml-1600x840.webp'
 ogp_type = 'article'
 
